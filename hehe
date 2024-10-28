@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Favourite Food</title>
+  <link rel="stylesheet" href="style.css"
+  </head>
+  <body>
+  <h1>1. Sushi</h1>
+  <img src="">
+  <p> I love it because....</p>
+  <br>
+  <h1>Ingredients:</h1>
+  <h2>
+  <ul>
+     <Li>Eggs</li>
+   <Li>Butter</li>
+   <Li>Seaweed</li>
+  </ul>
+  /h2>
+  </body>
+  
